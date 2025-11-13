@@ -17,8 +17,8 @@ class BonDiaNitApp extends StatefulWidget {
 }
 
 class _BonDiaNitAppState extends State<BonDiaNitApp> {
-  String missatge =
-      "Good ?!"; // Variable que contiene el texto que se mostrará en pantalla
+  
+  String missatge ="Good ?!"; // Variable que contiene el texto que se mostrará en pantalla
 
   // Función que se llama cuando se pulsa el botón Morning
   void dirBonDia() {
