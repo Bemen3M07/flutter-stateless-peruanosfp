@@ -24,7 +24,8 @@ class SaludarPage extends StatefulWidget {
 }
 
 class _SaludarPageState extends State<SaludarPage> {
-  final TextEditingController _nameController = TextEditingController(); // Controla el TextField
+  final TextEditingController _nameController =
+      TextEditingController(); // Controla el TextField
 
   // Función que muestra el dialog con el saludo
   void _saludar() {
